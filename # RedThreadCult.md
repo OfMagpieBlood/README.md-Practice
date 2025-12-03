@@ -11,9 +11,11 @@ Please take your shoes off before entering my [anima](https://www.tumblr.com/red
 
 ### Where To Find Me
 If you are intrigued by my original works, I invite you to delve into my long-term projects:
+
 [Cabinet of Perturbation](https://www.tumblr.com/mycabinetofperturbation)
 [Fallen Humanity](https://www.tumblr.com/ofallenhumanity)
 [As The Crow Flies Alliance](https://www.tumblr.com/asthecrowfliesalliance?source=share)
 
 ### The Creator
-I've begun moonlighting in coding, please feel free to enlighten **[me]**(https://github.com/OfMagpieBlood). 
+
+I've begun moonlighting in coding, please feel free to enlighten [me](https://github.com/OfMagpieBlood). 
