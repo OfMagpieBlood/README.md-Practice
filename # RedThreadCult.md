@@ -1,4 +1,4 @@
-# RedThreadCult
+# Red Thread Cult
 A blog dedicated to posting fanfiction and original short stories.
 
 > *"They're monitoring my subconscious massacres, I know"*
@@ -21,5 +21,6 @@ If you are intrigued by my original works, I invite you to delve into my long-te
 ### The Creator
 
 I've begun moonlighting in coding, please feel free to enlighten [me](https://github.com/OfMagpieBlood). 
+
 
 
